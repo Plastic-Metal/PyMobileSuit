@@ -5,7 +5,7 @@
     <img src="Plastic-Metal.png" width = 30% height = 30%  />
 </div>
 
-# ～PlasticMetal.(Py)MobileSuit～
+# ~~PlasticMetal.(Py)MobileSuit~~
 
 ![PyPI](https://img.shields.io/pypi/v/PyMobileSuit?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/Plastic-Metal/PyMobileSuit?style=flat-square)
